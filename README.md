@@ -9,12 +9,12 @@
 ## 🛠 Skills & Languages
 
 <p align="left">
-  <img src="assets/javascript.svg" alt="JavaScript" width="80" height="80"/>
-  <img src="assets/solidity.svg" alt="Solidity" width="80" height="80"/>
-  <img src="assets/python.svg" alt="Python" width="80" height="80"/>
-  <img src="assets/rust.svg" alt="Rust" width="80" height="80"/>
-  <img src="assets/foundry.png" alt="Foundry" width="80" height="80"/>
-  <img src="assets/assembly.png" alt="Assembly" width="80" height="80"/>
+  <img src="javascript.svg" alt="JavaScript" width="80" height="80"/>
+  <img src="solidity.svg" alt="Solidity" width="80" height="80"/>
+  <img src="python.svg" alt="Python" width="80" height="80"/>
+  <img src="rust.svg" alt="Rust" width="80" height="80"/>
+  <img src="foundry.png" alt="Foundry" width="80" height="80"/>
+  <img src="assembly.png" alt="Assembly" width="80" height="80"/>
 </p>
 
 
