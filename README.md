@@ -7,8 +7,7 @@
 ---
 
 ## 🛠 Skills & Languages
-
-## 🛠 Tech I Use
+##  Tech Icons
 
 <p align="left">
   <!-- JavaScript -->
@@ -23,14 +22,13 @@
   <!-- Rust -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust" width="80" height="80"/>
 
-  <!-- Foundry () -->
-  <!-- فایل آیکون رو بگذار تو مسیر: assets/foundry.png یا foundry.svg -->
-  <img src="assets/foundry.png" alt="Foundry" width="80" height="80"/>
+  <!-- Foundry -->
+  <img src="https://brandeps.com/logo/F/Foundry-01.svg" alt="Foundry" width="80" height="80"/>
 
-  <!-- Assembly () -->
-  <!-- یک آیکون دلخواه برای اسمبلی در assets/assembly.png یا assembly.svg بگذار -->
-  <img src="assets/assembly.png" alt="Assembly" width="80" height="80"/>
+  <!-- Assembly -->
+  <img src="https://www.svgrepo.com/show/373445/assembly.svg" alt="Assembly" width="80" height="80"/>
 </p>
+
 
 ---
 
