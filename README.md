@@ -8,29 +8,44 @@
 
 ## 🛠 Skills & Languages
 
+## 🛠 Tech I Use
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="solidity" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="rust" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="50" height="50"/>
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80"/>
+
+  <!-- Solidity -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="Solidity" width="80" height="80"/>
+
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="80" height="80"/>
+
+  <!-- Rust -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust" width="80" height="80"/>
+
+  <!-- Foundry () -->
+  <!-- فایل آیکون رو بگذار تو مسیر: assets/foundry.png یا foundry.svg -->
+  <img src="assets/foundry.png" alt="Foundry" width="80" height="80"/>
+
+  <!-- Assembly () -->
+  <!-- یک آیکون دلخواه برای اسمبلی در assets/assembly.png یا assembly.svg بگذار -->
+  <img src="assets/assembly.png" alt="Assembly" width="80" height="80"/>
 </p>
+
 ---
 
 ## 🔐 My Expertise
 - 📍 Smart Contract Security  
-- 📍 Web3 Bug Hunting & Exploitation  
-- 📍 Security Advisory for DeFi Protocols  
+- 📍 Web3 Reasercher & Auditor & Developer  
+- 📍 Web2 Raesercher  
 
 ---
 
 ## 📫 Contact Me
 - **Discord:** @aidennabavi  
-- **Telegram:** @YourUserName  
-- **Twitter:** [twitter.com/YourUserName](https://twitter.com/)  
-- **LinkedIn:** [linkedin.com/in/YourUserName](https://linkedin.com)  
+- **Telegram:** @AidenNabavi  
+- **Twitter:** [twitter.com/aidennabavi](https://twitter.com/)  
+- **instagram:** [instagram.com/aidennabavi](https://instagram.com)  
 
 ---
 
