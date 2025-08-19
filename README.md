@@ -14,7 +14,7 @@
   <img src="python.svg" alt="Python" width="80" height="80"/>
   <img src="rust.svg" alt="Rust" width="80" height="80"/>
   <img src="foundry.png" alt="Foundry" width="80" height="80"/>
-  <img src="assembly.png" alt="Assembly" width="80" height="80"/>
+  <img src="assembly.svg" alt="Assembly" width="80" height="80"/>
 </p>
 
 
