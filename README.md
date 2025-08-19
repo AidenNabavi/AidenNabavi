@@ -7,26 +7,14 @@
 ---
 
 ## 🛠 Skills & Languages
-##  Tech Icons
 
 <p align="left">
-  <!-- JavaScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80"/>
-
-  <!-- Solidity -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="Solidity" width="80" height="80"/>
-
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="80" height="80"/>
-
-  <!-- Rust -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust" width="80" height="80"/>
-
-  <!-- Foundry -->
-  <img src="https://brandeps.com/logo/F/Foundry-01.svg" alt="Foundry" width="80" height="80"/>
-
-  <!-- Assembly -->
-  <img src="https://www.svgrepo.com/show/373445/assembly.svg" alt="Assembly" width="80" height="80"/>
+  <img src="assets/javascript.svg" alt="JavaScript" width="80" height="80"/>
+  <img src="assets/solidity.svg" alt="Solidity" width="80" height="80"/>
+  <img src="assets/python.svg" alt="Python" width="80" height="80"/>
+  <img src="assets/rust.svg" alt="Rust" width="80" height="80"/>
+  <img src="assets/foundry.png" alt="Foundry" width="80" height="80"/>
+  <img src="assets/assembly.png" alt="Assembly" width="80" height="80"/>
 </p>
 
 
